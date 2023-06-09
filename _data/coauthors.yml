@@ -32,3 +32,23 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Huang":
+  - firstname: ["Zhen"]
+    url: https://xmhuangzhen.github.io/
+
+"Chen":
+  - firstname: ["Guoxing"]
+    url: https://donnod.github.io/
+
+"Fu":
+  - firstname: ["Hongfei"]
+    url: https://jhc.sjtu.edu.cn/~hongfeifu/
+
+"Zhang":
+  - firstname: ["Yuanyuan"]
+    url: http://yyjess.com/
+
+"Zhu":
+  - firstname: ["Haojin"]
+    url: https://nsec.sjtu.edu.cn/~hjzhu/
