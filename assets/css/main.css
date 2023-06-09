@@ -19,6 +19,7 @@
   --global-distill-app-color: #828282;
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #ffffff;
+  --global-test-color: #d02043;
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
   --global-tip-block-text: #215d42;
@@ -221,11 +222,12 @@ blockquote {
 
 .profile {
   width: 100%;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .profile .address {
   margin-bottom: 5px;
   margin-top: 5px;
-  font-family: monospace;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .profile .address p {
   display: inline-block;
@@ -265,6 +267,7 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .navbar .dropdown-menu {
@@ -383,6 +386,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 footer.fixed-bottom .container {
   color: var(--global-footer-text-color);
@@ -453,8 +457,31 @@ footer.sticky-bottom {
   color: var(--global-text-color-light);
 }
 
+.clearfix {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.h2_title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.subtitle {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: bold;
+}
+
+.post-title {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
 .post-title mjx-container[jax=CHTML][display=true] {
   display: unset;
+}
+
+.bib {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: bold;
+  font-size: large;
+  width: 560px;
 }
 
 .post-list {
@@ -542,6 +569,7 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .publications h1 {
   color: var(--global-theme-color);
@@ -568,14 +596,15 @@ footer.sticky-bottom {
   list-style: none;
   padding: 0;
   margin-top: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .publications ol.bibliography li {
   margin-bottom: 1rem;
 }
 .publications ol.bibliography li .preview {
   width: 100%;
-  min-width: 80px;
-  max-width: 200px;
+  min-width: 120px;
+  max-width: 260px;
 }
 .publications ol.bibliography li .abbr {
   height: 2rem;
@@ -600,6 +629,9 @@ footer.sticky-bottom {
 .publications ol.bibliography li .title {
   font-weight: bolder;
 }
+.publications ol.bibliography li .author {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-theme-color);
 }
@@ -609,7 +641,7 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .author > em {
   border-bottom: 1px solid;
-  font-style: normal;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .publications ol.bibliography li .author > span.more-authors {
   color: var(--global-text-color-light);
@@ -647,7 +679,8 @@ footer.sticky-bottom {
   text-decoration: underline;
 }
 .publications ol.bibliography li .hidden {
-  font-size: 0.875rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: normal;
   max-height: 0px;
   overflow: hidden;
   text-align: justify;
