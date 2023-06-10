@@ -5,7 +5,7 @@ permalink: /
 subtitle: Off we go into the wild pale yonder.
 
 profile:
-  # align: right
+  align: right
   image: willow_column.jpg
   image_circular: false # crops the image to make it circular
   address: >
