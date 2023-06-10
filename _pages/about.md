@@ -6,7 +6,7 @@ subtitle: Off we go into the wild pale yonder.
 
 profile:
   align: right
-  image: willow_column.jpg
+  image: willow_snapshot.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Siyuan Lake, June 6, 2023</p>
