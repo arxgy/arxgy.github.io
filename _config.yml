@@ -8,7 +8,7 @@ middle_name:
 last_name: Yang
 email: yangganxiang@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Hello there, I'm Ganxiang Yang, an junior undergrad at SJTU. Welcome to my homepage!
 footer_text: >
   
 keywords: academic-website  # add your own keywords or leave empty
