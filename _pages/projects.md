@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Here are several Computer Science and E projects I've done.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false

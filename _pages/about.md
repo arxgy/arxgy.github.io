@@ -9,7 +9,7 @@ profile:
   image: willow_column.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Siyuan Lake, Jul 6, 2023</p>
+    <p>Siyuan Lake, June 6, 2023</p>
     <p> by <a href="https://librowu.github.io/">Libro Wu</a></p>
 
 news: false  # includes a list of news items
