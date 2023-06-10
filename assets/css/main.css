@@ -296,6 +296,7 @@ blockquote {
   text-decoration: none;
 }
 .navbar.navbar-light .navbar-brand {
+  font-family: Georgia, "Times New Roman", Times, serif;
   color: var(--global-text-color);
 }
 .navbar.navbar-light .navbar-nav .nav-item .nav-link {
@@ -466,12 +467,12 @@ footer.sticky-bottom {
 }
 
 .subtitle {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: bold;
 }
 
 .post-title {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .post-title mjx-container[jax=CHTML][display=true] {
   display: unset;
@@ -627,6 +628,7 @@ footer.sticky-bottom {
   border: 1px solid var(--global-theme-color);
 }
 .publications ol.bibliography li .title {
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: bolder;
 }
 .publications ol.bibliography li .author {
