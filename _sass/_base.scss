@@ -212,6 +212,7 @@ blockquote {
   }
 
   .navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: var(--global-text-color);
   }
 
@@ -437,13 +438,13 @@ footer.sticky-bottom {
 
 .subtitle
 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   // font-style: italic;
   font-size: bold;
 }
 
 .post-title {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   // font-family: Georgia, 'Times New Roman', Times, serif;
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
@@ -646,6 +647,7 @@ footer.sticky-bottom {
       }
 
       .title {
+        font-family: Georgia, 'Times New Roman', Times, serif;
         font-weight: bolder;
       }
 

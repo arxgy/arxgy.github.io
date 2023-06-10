@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Here are several Computer Science and Engineering projects I've done.
+description: Here are several Computer Science and E projects I've done.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

@@ -27,4 +27,4 @@ and participate in a research internship with Prof. [Xinyu Xing](http://xinyuxin
 My research interests lie in <span style="font-weight: bold">System Security and Reliability</span>,
 including <span style="font-weight: bold">Software/Kernel Security</span>.
 
-My Telegram is [P4leWa1ker](https://t.me/P4leWa1ker). Feel free to contact me.
+My WeChat is `arxgy_`. Feel free to contact me.
