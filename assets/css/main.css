@@ -433,22 +433,33 @@ footer.sticky-bottom {
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .header-bar h1 {
   color: var(--global-theme-color);
   font-size: 5rem;
+}
+.header-bar h2 {
+  text-align: right;
+  font-style: italic;
+  font-size: 1.2rem;
 }
 
 .tag-list {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
   padding-top: 1rem;
+  font-size: 1.3rem;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .tag-list ul {
   justify-content: center;
   display: flow-root;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
 }
 .tag-list ul p,
 .tag-list ul li {
@@ -485,10 +496,19 @@ footer.sticky-bottom {
   width: 560px;
 }
 
+.post-table-meta {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.post-table-link {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
   padding: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 .post-list li {
   border-bottom: 1px solid var(--global-divider-color);
@@ -750,11 +770,13 @@ html.transition *:after {
 }
 
 .post .post-meta {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: var(--global-text-color-light);
   font-size: 0.875rem;
   margin-bottom: 0;
 }
 .post .post-tags {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: var(--global-text-color-light);
   font-size: 0.875rem;
   padding-top: 0.25rem;
@@ -766,6 +788,9 @@ html.transition *:after {
 }
 .post .post-tags a:hover {
   color: var(--global-theme-color);
+}
+.post .post-content {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .post .post-content blockquote {
   border-left: 5px solid var(--global-theme-color);
