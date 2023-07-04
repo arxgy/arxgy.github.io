@@ -6,7 +6,7 @@ subtitle: Off we go into the wild pale yonder.
 
 profile:
   align: right
-  image: willow_snapshot.jpg
+  image: willow_thin.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Siyuan Lake, June 6, 2023</p>
@@ -23,7 +23,7 @@ I am Ganxiang Yang (杨淦翔), a junior undergraduate at [ACM Honors Class](htt
 It's been a pleasure living and studying with my talented and diligent classmates, from whom I've learned a lot.
 
 Currently, I am fortunate to work with Asst. Prof. [Guoxing Chen](https://donnod.github.io/) at [NSEC Lab](https://nsec.sjtu.edu.cn/)
-and participate in a research internship with Prof. [Xinyu Xing](http://xinyuxing.org/) at [Northwestern University](https://www.mccormick.northwestern.edu/).
+and participate in a research internship with Assoc. Prof. [Xinyu Xing](http://xinyuxing.org/) at [Northwestern University](https://www.mccormick.northwestern.edu/).
 My research interests lie in <span style="font-weight: bold">System Security and Reliability</span>,
 including <span style="font-weight: bold">Software/Kernel Security</span>.
 
