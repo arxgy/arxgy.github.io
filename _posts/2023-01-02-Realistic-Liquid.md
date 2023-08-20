@@ -8,6 +8,8 @@ tags: Poems
 categories:
 # giscus_comments: true
 related_posts: false
+giscus_comments: false
+
 ---
 <style>
 /* p { */
