@@ -1,5 +1,175 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="arxgy.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="arxgy.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-04T08:08:38+00:00</updated><id>arxgy.github.io/feed.xml</id><title type="html">blank</title><subtitle>Hello there, I&apos;m Ganxiang Yang, an junior undergrad at SJTU. Welcome to my homepage!
-</subtitle><entry><title type="html">现实液体</title><link href="arxgy.github.io/blog/2023/Realistic-Liquid/" rel="alternate" type="text/html" title="现实液体" /><published>2023-01-02T00:00:00+00:00</published><updated>2023-01-02T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Realistic-Liquid</id><content type="html" xml:base="arxgy.github.io/blog/2023/Realistic-Liquid/"><![CDATA[<style>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="arxgy.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="arxgy.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-08-20T21:25:14+00:00</updated><id>arxgy.github.io/feed.xml</id><title type="html">blank</title><subtitle>Hello there, I&apos;m Ganxiang Yang, an junior undergrad at SJTU. Welcome to my homepage!
+</subtitle><entry><title type="html">城池</title><link href="arxgy.github.io/blog/2023/Misc/" rel="alternate" type="text/html" title="城池" /><published>2023-08-20T00:00:00+00:00</published><updated>2023-08-20T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Misc</id><content type="html" xml:base="arxgy.github.io/blog/2023/Misc/"><![CDATA[<style>
+/* p { */
+  line-height: 1.2;
+/* } */
+</style>
+
+<p>蒙上双眼<br />
+心与手要呼唤她的名字<br />
+在长长的叶子上写诗<br />
+鹅黄的高塔慢慢行礼 打个哈欠<br />
+一起等候太阳疲惫的日子<br />
+词语破碎之处，阳光风干殆尽<br />
+曾经并排行过的细浪<br />
+光明的汁液初次碰撞作响<br />
+有些时候 我们习惯了被它们推走<br />
+许多时候 你仅仅挥动虔诚的右手<br />
+星星如睫蜷伏<br />
+目送你溶入蓝蓝的皱褶<br />
+看船夫摇上半朵满月<br />
+忽然放歌<br /></p>
+
+<!-- 
+This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.
+
+We decided to support the same custom blockquotes as in [jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html), which are also found in a lot of other sites' styles. The styles definitions can be found on the [_base.scss](https://github.com/alshedivat/al-folio/blob/master/_sass/_base.scss) file, more specifically:
+
+```scss
+/* Tips, warnings, and dangers */
+.post .post-content blockquote {
+    &.block-tip {
+    border-color: var(--global-tip-block);
+    background-color: var(--global-tip-block-bg);
+
+    p {
+      color: var(--global-tip-block-text);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--global-tip-block-title);
+    }
+  }
+
+  &.block-warning {
+    border-color: var(--global-warning-block);
+    background-color: var(--global-warning-block-bg);
+
+    p {
+      color: var(--global-warning-block-text);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--global-warning-block-title);
+    }
+  }
+
+  &.block-danger {
+    border-color: var(--global-danger-block);
+    background-color: var(--global-danger-block-bg);
+
+    p {
+      color: var(--global-danger-block-text);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--global-danger-block-title);
+    }
+  }
+}
+```
+
+A regular blockquote can be used as following:
+
+```markdown
+> This is a regular blockquote
+> and it can be used as usual
+```
+
+> This is a regular blockquote
+> and it can be used as usual
+
+These custom styles can be used by adding the specific class to the blockquote, as follows:
+
+```markdown
+> ##### TIP
+>
+> A tip can be used when you want to give advice
+> related to a certain content.
+{: .block-tip }
+```
+
+> ##### TIP
+>
+> A tip can be used when you want to give advice
+> related to a certain content.
+{: .block-tip }
+
+```markdown
+> ##### WARNING
+>
+> This is a warning, and thus should
+> be used when you want to warn the user
+{: .block-warning }
+```
+
+> ##### WARNING
+>
+> This is a warning, and thus should
+> be used when you want to warn the user
+{: .block-warning }
+
+```markdown
+> ##### DANGER
+>
+> This is a danger zone, and thus should
+> be used carefully
+{: .block-danger }
+```
+
+> ##### DANGER
+>
+> This is a danger zone, and thus should
+> be used carefully
+{: .block-danger } -->]]></content><author><name></name></author><category term="Poems" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">漫长的湿润</title><link href="arxgy.github.io/blog/2023/Amoy/" rel="alternate" type="text/html" title="漫长的湿润" /><published>2023-07-13T00:00:00+00:00</published><updated>2023-07-13T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Amoy</id><content type="html" xml:base="arxgy.github.io/blog/2023/Amoy/"><![CDATA[<p>在厦门的最后那个夜晚，我与W说，当时读王小波，“他们开始吃喝，谈笑，度过这漫漫长夜。当户外梨花飞舞，雪光如昼时，人不想沉沉睡去。这种感觉，古今无不同。” 虽然意境描述出来就难免有些落俗，也稍有一些参差不同，但我还是想借此句在我心里留念一下。之后我每次度过漫漫长夜，或许我就又会想起你和你们。我觉得这样最好。</p>
+
+<p>我这样告诉她，她说，我觉得这样最好。</p>
+
+<hr />
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Amoy2-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Amoy2-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Amoy2-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Amoy2.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Amoy6-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Amoy6-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Amoy6-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Amoy6.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+
+</div>
+<!-- <div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
+ -->]]></content><author><name></name></author><category term="Peers" /><summary type="html"><![CDATA[光明的汁液碰撞作响]]></summary></entry><entry><title type="html">现实液体</title><link href="arxgy.github.io/blog/2023/Realistic-Liquid/" rel="alternate" type="text/html" title="现实液体" /><published>2023-01-02T00:00:00+00:00</published><updated>2023-01-02T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Realistic-Liquid</id><content type="html" xml:base="arxgy.github.io/blog/2023/Realistic-Liquid/"><![CDATA[<style>
 /* p { */
   line-height: 1.2;
 /* } */
