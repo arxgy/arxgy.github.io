@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>YPU | Ganxiang  Yang</title>
+    <title>Dream Walk | Ganxiang  Yang</title>
     <meta name="author" content="Ganxiang  Yang">
-    <meta name="description" content="A CPU made from scratch.">
+    <meta name="description" content="此刻你若不爱我，我也不会在意">
     <meta name="keywords" content="academic-website">
 
 
@@ -38,7 +38,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%F0%9F%95%B6%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="arxgy.github.io/blog/2022/CPU/">
+    <link rel="canonical" href="arxgy.github.io/blog/2023/Evanston/">
 
     <!-- Dark Mode -->
     
@@ -119,13 +119,13 @@
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">YPU</h1>
-    <p class="post-meta">December 4, 2022</p>
+    <h1 class="post-title">Dream Walk</h1>
+    <p class="post-meta">October 5, 2023</p>
     <p class="post-tags">
-      <a href="/blog/2022"> <i class="fas fa-calendar fa-sm"></i> 2022 </a>
+      <a href="/blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
         ·  
-        <a href="/blog/tag/programming">
-          <i class="fas fa-hashtag fa-sm"></i> Programming</a>  
+        <a href="/blog/tag/pastime">
+          <i class="fas fa-hashtag fa-sm"></i> Pastime</a>  
           
 
     </p>
@@ -134,65 +134,83 @@
   <article class="post-content">
     
     <div id="markdown-content">
-      <h4 id="overview">Overview</h4>
+      <p>Evanston的秋日黄昏于我，便是初次读到阿赫玛托娃与勃洛克时的震颤。走在余温尚在的街上，我要用这老虎的黄金与白银的短歌将你沐浴。</p>
 
-<p>A toy CPU based on tomasulo algorithm, supporting part of <code class="language-plaintext highlighter-rouge">rv32i</code> ISA.</p>
+<style>
+/* p { */
+  line-height: 1.2;
+/* } */
+</style>
 
-<h4 id="technical-features">Technical Features</h4>
+<p><span style="color: grey;">
+我想和你一起生活<br>
+在某个小镇<br>
+共享无尽的黄昏<br>
+和绵绵不绝的钟声<br>
+在这个小镇的旅店里——<br>
+古老时钟敲出的<br>
+微弱响声<br>
+像时间轻轻滴落<br>
+</span></p>
 
-<ul>
-  <li>Tomasulo architecture with Reorder Buffer.</li>
-  <li>Hardware Speculation and precise interruption, supported by 2-bit saturating counter predictor of 1024 entries.</li>
-  <li>Directly-mapped instruction cache of 2048 entries.</li>
-  <li>Reorder buffer of 16 entries.</li>
-  <li>Well performance with relatively less hardware overhead.</li>
-  <li>Pass all testcases on simulation and FPGA.</li>
-  <li>Due to positive delay on 100MHz, YPU is quite possible to support higher frequencies. <strong>(not test yet)</strong>
-</li>
-</ul>
-
-<p><br></p>
-
-<h4 id="evaluation">Evaluation</h4>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">Testcases</th>
-      <th>tak</th>
-      <th>magic</th>
-      <th>superloop</th>
-      <th>basicopt</th>
-      <th>bulgarian</th>
-      <th>queens</th>
-      <th>Pi</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left"><strong>Time(FPGA)/s</strong></td>
-      <td>0.074187</td>
-      <td>0.043482</td>
-      <td>0.033457</td>
-      <td>0.028221</td>
-      <td>1.228735</td>
-      <td>1.200035</td>
-      <td>&gt;3</td>
-    </tr>
-  </tbody>
-</table>
+<p><span style="color: grey;">
+有时候，在黄昏，自顶楼某个房间传来<br>
+笛声<br>
+吹笛者倚著窗牖<br>
+而窗口大朵郁金香<br>
+此刻你若不爱我，我也不会在意<br>
+在房间中央，一个瓷砖砌成的炉子<br>
+每一块瓷砖上画著一幅画：<br>
+一颗心，一艘帆船，一朵玫瑰<br>
+而自我们唯一的窗户张望<br>
+雪，雪，雪<br>
+你会躺成我喜欢的姿势：慵懒<br>
+淡然，冷漠<br>
+一两回点燃火柴的<br>
+刺耳声<br>
+你香烟的火苗由旺转弱<br>
+烟的末梢颤抖著，颤抖著<br>
+短小灰白的烟蒂——连灰烬<br>
+你都懒得弹落——<br>
+香烟遂飞舞进火中<br>
+</span></p>
 
 <p><br></p>
 
-<p>This project costs me about one month to learn <code class="language-plaintext highlighter-rouge">Verilog HDL</code> from scratch and build a FPGA-compatible CPU program from nothing with a workload about <code class="language-plaintext highlighter-rouge">2k+ LoC</code>.</p>
-<h4 id="acknowledgement">Acknowledgement</h4>
+<style>
+    /* Adjust the image size to zoom in to 60% */
+    .img-shrink {
+        width: 60%;
+        height: auto;
+    }
+</style>
 
-<p>Thanks Sirius, Pioooooo, XOR-op, happypig for answering questions and giving suggestions.<br>
-Thanks Lhtie for playing Overwatch with me, which helped me a lot on releasing pressures.<br>
-And at last, thanks myself for no reasons.<br></p>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-<h4 id="source-code">Source Code</h4>
-<p><a href="https://github.com/arxgy/YPU" rel="external nofollow noopener" target="_blank">Here</a>.</p>
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Evanston_ave-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Evanston_ave-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Evanston_ave-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Evanston_ave.jpg" class="img-fluid img-shrink rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+
+</div>
+<!-- <div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
+ -->
+
 
     </div>
   </article>

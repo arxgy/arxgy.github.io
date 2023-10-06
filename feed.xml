@@ -1,5 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="arxgy.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="arxgy.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-08-20T21:48:21+00:00</updated><id>arxgy.github.io/feed.xml</id><title type="html">blank</title><subtitle>Hello there, I&apos;m Ganxiang Yang, an junior undergrad at SJTU. Welcome to my homepage!
-</subtitle><entry><title type="html">城池</title><link href="arxgy.github.io/blog/2023/Misc/" rel="alternate" type="text/html" title="城池" /><published>2023-08-20T00:00:00+00:00</published><updated>2023-08-20T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Misc</id><content type="html" xml:base="arxgy.github.io/blog/2023/Misc/"><![CDATA[<style>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="arxgy.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="arxgy.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-06T22:00:51+00:00</updated><id>arxgy.github.io/feed.xml</id><title type="html">blank</title><subtitle>Hello there, I&apos;m Ganxiang Yang, an junior undergrad at SJTU. Welcome to my homepage!
+</subtitle><entry><title type="html">Dream Walk</title><link href="arxgy.github.io/blog/2023/Evanston/" rel="alternate" type="text/html" title="Dream Walk" /><published>2023-10-05T00:00:00+00:00</published><updated>2023-10-05T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Evanston</id><content type="html" xml:base="arxgy.github.io/blog/2023/Evanston/"><![CDATA[<p>Evanston的秋日黄昏于我，便是初次读到阿赫玛托娃与勃洛克时的震颤。走在余温尚在的街上，我要用这老虎的黄金与白银的短歌将你沐浴。</p>
+
+<style>
+/* p { */
+  line-height: 1.2;
+/* } */
+</style>
+
+<p><span style="color: grey;">
+我想和你一起生活<br />
+在某个小镇<br />
+共享无尽的黄昏<br />
+和绵绵不绝的钟声<br />
+在这个小镇的旅店里——<br />
+古老时钟敲出的<br />
+微弱响声<br />
+像时间轻轻滴落<br />
+</span></p>
+
+<p><span style="color: grey;">
+有时候，在黄昏，自顶楼某个房间传来<br />
+笛声<br />
+吹笛者倚著窗牖<br />
+而窗口大朵郁金香<br />
+此刻你若不爱我，我也不会在意<br />
+在房间中央，一个瓷砖砌成的炉子<br />
+每一块瓷砖上画著一幅画：<br />
+一颗心，一艘帆船，一朵玫瑰<br />
+而自我们唯一的窗户张望<br />
+雪，雪，雪<br />
+你会躺成我喜欢的姿势：慵懒<br />
+淡然，冷漠<br />
+一两回点燃火柴的<br />
+刺耳声<br />
+你香烟的火苗由旺转弱<br />
+烟的末梢颤抖著，颤抖著<br />
+短小灰白的烟蒂——连灰烬<br />
+你都懒得弹落——<br />
+香烟遂飞舞进火中<br />
+</span></p>
+
+<p><br /></p>
+
+<style>
+    /* Adjust the image size to zoom in to 60% */
+    .img-shrink {
+        width: 60%;
+        height: auto;
+    }
+</style>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/Evanston_ave-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/Evanston_ave-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/Evanston_ave-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Evanston_ave.jpg" class="img-fluid img-shrink rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+
+</div>
+<!-- <div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
+ -->]]></content><author><name></name></author><category term="Pastime" /><summary type="html"><![CDATA[此刻你若不爱我，我也不会在意]]></summary></entry><entry><title type="html">城池</title><link href="arxgy.github.io/blog/2023/Misc/" rel="alternate" type="text/html" title="城池" /><published>2023-08-20T00:00:00+00:00</published><updated>2023-08-20T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Misc</id><content type="html" xml:base="arxgy.github.io/blog/2023/Misc/"><![CDATA[<style>
 /* p { */
   line-height: 1.2;
 /* } */
@@ -121,7 +196,7 @@ These custom styles can be used by adding the specific class to the blockquote, 
 >
 > This is a danger zone, and thus should
 > be used carefully
-{: .block-danger } -->]]></content><author><name></name></author><category term="Poems" /><summary type="html"><![CDATA[有一行魏尔兰的诗，我再也不能记起]]></summary></entry><entry><title type="html">漫长的湿润</title><link href="arxgy.github.io/blog/2023/Amoy/" rel="alternate" type="text/html" title="漫长的湿润" /><published>2023-07-13T00:00:00+00:00</published><updated>2023-07-13T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Amoy</id><content type="html" xml:base="arxgy.github.io/blog/2023/Amoy/"><![CDATA[<p>在厦门的最后那个夜晚，我与W说，当时读王小波，“他们开始吃喝，谈笑，度过这漫漫长夜。当户外梨花飞舞，雪光如昼时，人不想沉沉睡去。这种感觉，古今无不同。” 虽然意境描述出来就难免有些落俗，也稍有一些参差不同，但我还是想借此句在我心里留念一下。之后我每次度过漫漫长夜，或许我就又会想起你和你们。我觉得这样最好。</p>
+{: .block-danger } -->]]></content><author><name></name></author><category term="Poems" /><summary type="html"><![CDATA[有一行魏尔兰的诗，我再也不能记起]]></summary></entry><entry><title type="html">漫长的湿润</title><link href="arxgy.github.io/blog/2023/Amoy/" rel="alternate" type="text/html" title="漫长的湿润" /><published>2023-07-13T00:00:00+00:00</published><updated>2023-07-13T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Amoy</id><content type="html" xml:base="arxgy.github.io/blog/2023/Amoy/"><![CDATA[<p>在厦门最后的那个夜晚，我与W说，当时读王小波，“他们开始吃喝，谈笑，度过这漫漫长夜。当户外梨花飞舞，雪光如昼时，人不想沉沉睡去。这种感觉，古今无不同。” 虽然意境描述出来就难免有些落俗，也稍有一些参差不同，但我还是想借此句在我心里留念一下。之后我每次度过漫漫长夜，或许我就又会想起你和你们。我觉得这样最好。</p>
 
 <p>我这样告诉她，她说，我觉得这样最好。</p>
 
@@ -169,7 +244,7 @@ These custom styles can be used by adding the specific class to the blockquote, 
 <!-- <div class="caption">
     A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>
- -->]]></content><author><name></name></author><category term="Peers" /><summary type="html"><![CDATA[光明的汁液碰撞作响]]></summary></entry><entry><title type="html">见字如面</title><link href="arxgy.github.io/blog/2023/Letter/" rel="alternate" type="text/html" title="见字如面" /><published>2023-01-04T00:00:00+00:00</published><updated>2023-01-04T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Letter</id><content type="html" xml:base="arxgy.github.io/blog/2023/Letter/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[又何妨呢]]></summary></entry><entry><title type="html">现实液体</title><link href="arxgy.github.io/blog/2023/Realistic-Liquid/" rel="alternate" type="text/html" title="现实液体" /><published>2023-01-02T00:00:00+00:00</published><updated>2023-01-02T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Realistic-Liquid</id><content type="html" xml:base="arxgy.github.io/blog/2023/Realistic-Liquid/"><![CDATA[<style>
+ -->]]></content><author><name></name></author><category term="Peers" /><summary type="html"><![CDATA[光明的汁液碰撞作响]]></summary></entry><entry><title type="html">见字如面</title><link href="arxgy.github.io/blog/2023/Letter/" rel="alternate" type="text/html" title="见字如面" /><published>2023-01-04T00:00:00+00:00</published><updated>2023-01-04T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Letter</id><content type="html" xml:base="arxgy.github.io/blog/2023/Letter/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[祝，前程似锦]]></summary></entry><entry><title type="html">现实液体</title><link href="arxgy.github.io/blog/2023/Realistic-Liquid/" rel="alternate" type="text/html" title="现实液体" /><published>2023-01-02T00:00:00+00:00</published><updated>2023-01-02T00:00:00+00:00</updated><id>arxgy.github.io/blog/2023/Realistic-Liquid</id><content type="html" xml:base="arxgy.github.io/blog/2023/Realistic-Liquid/"><![CDATA[<style>
 /* p { */
   line-height: 1.2;
 /* } */
@@ -802,19 +877,4 @@ Here's a line for us to start with.
 This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
 
 This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*. -->]]></content><author><name></name></author><category term="Poems" /><summary type="html"><![CDATA[不成章]]></summary></entry><entry><title type="html">午间</title><link href="arxgy.github.io/blog/2019/Bogeda/" rel="alternate" type="text/html" title="午间" /><published>2019-02-14T00:00:00+00:00</published><updated>2019-02-14T00:00:00+00:00</updated><id>arxgy.github.io/blog/2019/Bogeda</id><content type="html" xml:base="arxgy.github.io/blog/2019/Bogeda/"><![CDATA[<p>梦见天山<br />
-碧蓝 碧蓝溢满<br />
-    梦见天山<br />
-在山顶遇见彩色<br />
-翻飞的纸屑绕旋<br />
-日子与你是两朵雪莲<br /></p>
-
-<p>梦见天山<br />
-我的唇紧抿<br />
-天山不会绕旋<br />
-我的唇遇见彩色<br />
-翻飞的纸屑<br /></p>
-
-<p>吻你的睫毛<br />
-博格达峰的裂缝<br />
-读作飞鸟<br /></p>]]></content><author><name></name></author><category term="Poems" /><summary type="html"><![CDATA[很好的梦]]></summary></entry></feed>
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*. -->]]></content><author><name></name></author><category term="Poems" /><summary type="html"><![CDATA[不成章]]></summary></entry></feed>
