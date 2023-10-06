@@ -24,7 +24,6 @@ It's been a pleasure living and studying with my talented and diligent classmate
 
 Currently, I am fortunate to work with Asst. Prof. [Guoxing Chen](https://donnod.github.io/) at [NSEC Lab](https://nsec.sjtu.edu.cn/)
 and participate in a research internship with Assoc. Prof. [Xinyu Xing](http://xinyuxing.org/) at [Northwestern University](https://www.mccormick.northwestern.edu/).
-My research interests lie in <span style="font-weight: bold">System Security and Reliability</span>,
-including <span style="font-weight: bold">Software/Kernel Security</span>.
+My research interests lie in <span style="font-weight: bold">Security and Privacy</span>, and <span style="font-weight: bold">System in general</span>.
 
 My WeChat is `arxgy_`. Feel free to contact me.
