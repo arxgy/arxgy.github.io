@@ -156,9 +156,9 @@ It’s been a pleasure living and studying with my talented and diligent classma
 
 <p>Currently, I am fortunate to work with Asst. Prof. <a href="https://donnod.github.io/" rel="external nofollow noopener" target="_blank">Guoxing Chen</a> at <a href="https://nsec.sjtu.edu.cn/" rel="external nofollow noopener" target="_blank">NSEC Lab</a>
 and participate in a research internship with Assoc. Prof. <a href="http://xinyuxing.org/" rel="external nofollow noopener" target="_blank">Xinyu Xing</a> at <a href="https://www.mccormick.northwestern.edu/" rel="external nofollow noopener" target="_blank">Northwestern University</a>.
-My research interests lie in <span style="font-weight: bold">Security and Privacy</span>, and <span style="font-weight: bold">System in general</span>.</p>
+My research interests lie in <span style="font-weight: bold">Security and Privacy</span>, and <span style="font-weight: bold">System in general</span>. Moreover, I am also quite interested in building secure systems via <span style="font-weight: bold">formal verification</span> and <span style="font-weight: bold">cryptography</span>. Details about my research interests are shown by my previous publications and projects below.</p>
 
-<p>My WeChat is <code class="language-plaintext highlighter-rouge">arxgy_</code>. Feel free to contact me.</p>
+<!-- My WeChat is `arxgy_`. Feel free to contact me. -->
 
           </div>
 
@@ -171,7 +171,81 @@ My research interests lie in <span style="font-weight: bold">Security and Privac
           <!-- Selected papers -->
           <h2 class="h2_title"><a href="/publications/" style="color: inherit;">Publications</a></h2>
           <div class="publications">
-            <ol class="bibliography"></ol>
+            <ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 preview">
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/publication_preview/shadow.pdf-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/publication_preview/shadow.pdf-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/publication_preview/shadow.pdf-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/publication_preview/shadow.pdf" class="preview z-depth-1 rounded" width="auto" height="auto" alt="shadow.pdf" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+</div>
+
+        <!-- Entry bib key -->
+        <div id="Palantir" class="col-sm-8">
+        <!-- Title -->
+        <div class="bib">
+            <font style="font-variant: small-caps">Palantír</font>: Formally Verified Privileged Enclave as a Lightweight and Efficient Framework Extension
+        </div>
+        <!-- Author -->
+        <div class="author">
+          
+        
+
+        <em><span style="font-weight: bold">Ganxiang Yang</span></em>, Chenyang Liu, <a href="https://xmhuangzhen.github.io/" rel="external nofollow noopener" target="_blank">Zhen Huang</a>, <a href="https://donnod.github.io/" rel="external nofollow noopener" target="_blank">Guoxing Chen</a>, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Hongfei Fu, Yuanyuan Zhang, Haojin Zhu' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Submitted to Usenix Security</em>, 2024
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+            <a href="/assets/pdf/introduction.pdf" class="btn btn-sm z-depth-0" role="button">Paper</a>
+            <a href="https://github.com/arxgy/Palantir" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
+          </div>
+          
+          <div class="badges">
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Trusted execution environments (TEE) adopt the strong spatial isolation design to protect security-critical applications in the enclave, However, this isolation imposes significant limitations on the functionality and usability of the enclaves. This paper presents <font style="font-variant: small-caps">Palantír</font>, a formally verified framework providing a comprehensive methodology for introducing new services to the enclave. By proposing a Privileged Enclave (PE) framework, <font style="font-variant: small-caps">Palantír</font> relaxes the spatial isolation assumption. In particular, we grant specific enclaves privileges over others and introduce a unilateral trust model, allowing for improved enclave usability while ensuring security. To tackle security concerns, we verified our extended framework does not break or weaken the security guarantees of enclaves by building a formal model named 
+  TAP^2, which is significantly extended from the Trusted Abstract Platform (TAP), an existing formal model. To show feasibility, we implemented our design on Penglai, an existing RISC-V enclave platform. Based on this, we achieved three case studies with distinct usage scenarios and goals to showcase the effective enhancement of enclave usability achieved by <font style="font-variant: small-caps">Palantír</font>.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
           </div>
 
 
