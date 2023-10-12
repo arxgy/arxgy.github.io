@@ -24,6 +24,6 @@ It's been a pleasure living and studying with my talented and diligent classmate
 
 Currently, I am fortunate to work with Asst. Prof. [Guoxing Chen](https://donnod.github.io/) at [NSEC Lab](https://nsec.sjtu.edu.cn/)
 and participate in a research internship with Assoc. Prof. [Xinyu Xing](http://xinyuxing.org/) at [Northwestern University](https://www.mccormick.northwestern.edu/).
-My research interests lie in <span style="font-weight: bold">Security and Privacy</span>, and <span style="font-weight: bold">System in general</span>.
+My research interests lie in <span style="font-weight: bold">Security and Privacy</span>, and <span style="font-weight: bold">System in general</span>. Moreover, I am also quite interested in building secure systems via <span style="font-weight: bold">formal verification</span> and <span style="font-weight: bold">cryptography</span>. Details about my research interests are shown by my previous publications and projects below.
 
-My WeChat is `arxgy_`. Feel free to contact me.
+<!-- My WeChat is `arxgy_`. Feel free to contact me. -->
