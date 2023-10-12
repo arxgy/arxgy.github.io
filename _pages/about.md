@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Ganxiang Yang (杨淦翔), a junior undergraduate at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
+I am Ganxiang Yang (杨淦翔), a senior undergraduate at [ACM Honors Class](https://acm.sjtu.edu.cn/home),
 [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). 
 It's been a pleasure living and studying with my talented and diligent classmates, from whom I've learned a lot.
 
