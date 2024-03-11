@@ -6,12 +6,11 @@ subtitle: Off we go into the wild pale yonder.
 
 profile:
   align: right
-  image: willow_thin.jpg
+  image: Boston.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Siyuan Lake, June 6, 2023</p>
-    <p> by <a href="https://librowu.github.io/">Libro Wu</a></p>
-
+    <p>Boston, Dec 2, 2023</p>
+    <p>by <a href="https://jiamingtang.me/">Jiaming Tang</a>.</p>
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 # selected_papers: true # includes a list of papers marked as "selected={true}"
